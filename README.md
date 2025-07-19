@@ -40,6 +40,8 @@ https://huggingface.co/MUPPALAM/mistral/resolve/main/mistral-7b-instruct-v0.1.Q4
 
 ---
 
+---
+
 ## 💻 Setup
 
 1. Clone the repository:
@@ -47,12 +49,4 @@ https://huggingface.co/MUPPALAM/mistral/resolve/main/mistral-7b-instruct-v0.1.Q4
 ```bash
 git clone https://github.com/prem90902304/offline-chatbot.git
 cd offline-chatbot
-
-
-🙋 Author
-👨‍💻 Muppalam Premsai
-🔗 Hugging Face: https://huggingface.co/MUPPALAM
-📧 Email: com056032@gmail.com
-
-
 
