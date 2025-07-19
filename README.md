@@ -16,6 +16,12 @@ An offline, privacy-respecting chatbot powered by the Mistral 7B Instruct model 
 
 ## 📁 Project Structure
 
+offline-chatbot/
+├── chatbot.py # Command-line chatbot
+├── gui.py # GUI using Tkinter
+├── requirements.txt # Python dependencies
+├── mistral-7b-instruct-v0.1.Q4_0.gguf # Mistral model file
+└── README.md # This documentation
 
 ---
 
@@ -30,4 +36,23 @@ https://huggingface.co/MUPPALAM/mistral
 https://huggingface.co/MUPPALAM/mistral/resolve/main/mistral-7b-instruct-v0.1.Q4_0.gguf
 
 🗂️ Place the file in the project folder:
+
+
+---
+
+## 💻 Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/prem90902304/offline-chatbot.git
+cd offline-chatbot
+
+
+🙋 Author
+👨‍💻 Muppalam Premsai
+🔗 Hugging Face: https://huggingface.co/MUPPALAM
+📧 Email: com056032@gmail.com
+
+
 
